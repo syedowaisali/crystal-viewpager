@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CrystalViewPager">
+        <attr name="ctl_vp_transition" format="enum">
+            <enum name="default_transition" value="0" />
+            <enum name="front_to_back" value="1" />
+            <enum name="back_to_front" value="2" />
+            <enum name="cube_down" value="3" />
+            <enum name="cube_out" value="4" />
+            <enum name="depth_page" value="5" />
+            <enum name="flip_horizontal" value="6" />
+            <enum name="flip_vertical" value="7" />
+            <enum name="parallax_page" value="8" />
+            <enum name="rotate_down" value="9" />
+            <enum name="rotate_up" value="10" />
+            <enum name="stack" value="11" />
+            <enum name="tablet" value="12" />
+            <enum name="zoom_in" value="13" />
+            <enum name="zoom_out" value="14" />
+            <enum name="zoom_out_side" value="15" />
+            <enum name="accordion" value="16" />
+        </attr>
+    </declare-styleable>
+</resources>
