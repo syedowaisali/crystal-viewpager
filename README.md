@@ -1,4 +1,4 @@
-[ ![Download](https://api.bintray.com/packages/syedowaisali/maven/crystalviewpager/images/download.svg) ](https://bintray.com/syedowaisali/maven/crystalviewpager/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/syedowaisali/maven/crystalviewpager/images/download.svg) ](https://bintray.com/syedowaisali/maven/crystalviewpager/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Crystal%20ViewPager-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/4116)
 
 # Crystal ViewPager
 
